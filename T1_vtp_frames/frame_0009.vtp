@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<VTKFile type="PolyData" version="0.1" byte_order="LittleEndian">
+<PolyData>
+<Piece NumberOfPoints="9" NumberOfVerts="0" NumberOfLines="0" NumberOfStrips="0" NumberOfPolys="0">
+<Points>
+<DataArray type="Float32" NumberOfComponents="3" format="ascii">
+13.556000 20.355100 0.000000
+23.404700 2.352060 0.000000
+27.239600 26.971700 0.000000
+14.501300 16.992000 0.000000
+16.335000 19.812500 0.000000
+31.966700 14.996600 0.000000
+13.981200 15.200000 0.000000
+25.186700 1.625160 0.000000
+33.309900 15.174700 0.000000
+</DataArray>
+</Points>
+</Piece>
+</PolyData>
+</VTKFile>
